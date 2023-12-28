@@ -1,4 +1,4 @@
-# README for FAQ Chatbot Project
+# README 
 
 ## Project Overview
 This FAQ Chatbot is designed to provide automated responses to common questions in several categories, including WiFi issues, email issues, laptop issues, and SAP issues. The chatbot utilizes a pre-trained DistilBERT model to process user queries and match them with the most relevant answers from a set of predefined FAQs.
