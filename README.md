@@ -43,13 +43,7 @@ Send a POST request to the appropriate endpoint with a JSON payload containing t
 ## Response Format
 The API returns a JSON object with the key `answer` containing the response to the user query.
 
-## Contact
-For any further assistance, connect with:
-- Laptop related issues: `laptop.service@kiit.ac.in`
-- Email or WiFi related issues: `helpdesk@kiit.ac.in`
 
 ## Contributing
 Contributions to improve the chatbot are welcome. Please follow the standard procedure for contributing to a GitHub project.
 
-
-This README provides a comprehensive guide for setting up and using the FAQ Chatbot. Adjust the contact information and licensing details as per your specific project requirements.
